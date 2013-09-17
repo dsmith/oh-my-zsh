@@ -1,6 +1,3 @@
-# Symlink zshrc file
-ln -s zshrc ~/.zshrc
-
 # Check for updates on initial load...
 if [ "$DISABLE_AUTO_UPDATE" != "true" ]
 then
